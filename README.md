@@ -1,5 +1,10 @@
 # Tavi_predictor — post-TAVI complication risk predictor
 
+[![Live Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/Bloc05kadeOscar/tavi-predictor)
+
+**▶ Try it live:** [https://huggingface.co/spaces/Bloc05kadeOscar/tavi-predictor](https://huggingface.co/spaces/Bloc05kadeOscar/tavi-predictor)
+
+
 A machine-learning model that estimates the risk of complications after **TAVI** (Transcatheter Aortic Valve Implantation) from a small set of clinical measurements, served through a simple **Flask** web app. Built as the machine-learning component of an accepted Master's thesis.
 
 ## What it does
